@@ -56,6 +56,7 @@
         <dependency>
             <groupId>sv.file14.hubpvpsword</groupId>
             <artifactId>HubPvPSword</artifactId>
+            <version>3.8</version>
             <systemPath>${basedir}/lib/HubPvPSword.jar</systemPath>
             <scope>system</scope>
         </dependency>

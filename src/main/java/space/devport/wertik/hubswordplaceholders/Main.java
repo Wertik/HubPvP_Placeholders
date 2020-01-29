@@ -13,8 +13,11 @@ public class Main extends JavaPlugin {
 
     public ConsoleOutput cO;
 
-    @Getter
     private Configuration config;
+
+    public Configuration getCfg() {
+        return config;
+    }
 
     @Getter
     private HubPvPCache pvpCache;

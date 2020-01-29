@@ -1,0 +1,8 @@
+# Configuration for HubPvP_Placehodlers by Wertík from The Port
+
+debug-enabled: true
+
+plugin-prefix: '&cPvPSword Placeholders &8>> '
+
+true: '&atrue'
+false: '&cfalse'
