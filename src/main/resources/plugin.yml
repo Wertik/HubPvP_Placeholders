@@ -1,0 +1,6 @@
+name: HubSword_Placeholders
+main: space.devport.wertik.hubswordplaceholders.Main
+author: Wertik1206
+version: 1.0
+softdepend: [PlaceholderAPI]
+depend: [HubPvPSword]
